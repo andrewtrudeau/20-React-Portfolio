@@ -24,7 +24,7 @@ Using the deployed link, open the webpage and browse it.
 
 [Github](https://github.com/andrewtrudeau/20-React-Portfolio)
 
-[Heroku](https://hw19-pwa-andrew-trudeau.herokuapp.com/)
+[Website](https://andrewtrudeau.github.io/20-React-Portfolio/)
 
 ## Contact
 
